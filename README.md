@@ -10,3 +10,5 @@ Exec into container
 ```
 docker exec -it podmanctr /bin/sh
 ```
+
+Based on the work from https://github.com/containers/podman/tree/main/contrib/podmanimage
